@@ -1,4 +1,6 @@
-## Hi there 👋
+
+<h1 align="center" style="font-weight: bold;">Abdul Aziz</h1> <!-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"-->
+<h2 align="center">Frontend focused Full Stack Developer</h2>
 
 <!--
 **ab-dul-aziz/ab-dul-aziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
