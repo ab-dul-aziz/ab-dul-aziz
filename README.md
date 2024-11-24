@@ -1,7 +1,7 @@
 # 💼 Portfolio: Abdul Aziz
 
 <!-- Add custom CSS for styling -->
-<style>
+<!-- <style>
   body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -36,7 +36,7 @@
     text-decoration: underline;
     color: #81c784;
   }
-</style>
+</style> -->
 
 ## 👩‍💻 About Me
 <div class="section">
