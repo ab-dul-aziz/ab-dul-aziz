@@ -24,7 +24,7 @@ I am a **Data Analyst** and aspiring **Data Scientist** with a passion for trans
 
 ## 📖 **Highlight Project**
 - [Property Data Visualization in Melbourne](https://github.com/ab-dul-aziz/property-data-in-melbourne)
-- 
+- [Bank Loan Defaulter Prediction](https://github.com/ab-dul-aziz/bank-loan-defaulter-prediction)
 - 
 
 ## 📫 **Contact Me**
